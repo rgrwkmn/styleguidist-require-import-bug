@@ -27,6 +27,6 @@
   ],
   "devDependencies": {
     "babel-loader": "^8.0.5",
-    "react-styleguidist": "^9.0.1"
+    "react-styleguidist": "^9.0.3"
   }
 }
